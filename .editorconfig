@@ -13,3 +13,23 @@ indent_size = 2
 [*.json]
 indent_size = 2
 insert_final_newline = false
+
+[*.xml]
+indent_size = 2
+insert_final_newline = false
+
+[*.wsb]
+indent_size = 2
+insert_final_newline = false
+end_of_line = crlf
+
+[Makefile]
+indent_size = 4
+indent_style = tab
+
+[*.ps1]
+end_of_line = crlf
+charset = utf-8-bom
+
+[*.{cmd,bat}]
+end_of_line = crlf

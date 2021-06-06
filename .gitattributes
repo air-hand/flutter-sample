@@ -1,0 +1,5 @@
+*   text=auto
+
+*.wsb       text eol=crlf
+*.ps1       text eol=crlf
+*.(cmd|bat) text eol=crlf
